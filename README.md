@@ -1,4 +1,4 @@
 # kube-jitter
 
-Jitter tools for Kubernetes
+Jitter Tools for Kubernetes
 
